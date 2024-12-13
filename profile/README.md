@@ -32,3 +32,6 @@ Sabi is an interactive and educational mobile application designed to help users
 - **Mobile Development:**
   - Figma
   - Android Studio
+  - Kotlin
+  - Camera X
+  - Retrofit
