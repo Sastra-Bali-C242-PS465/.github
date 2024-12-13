@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="sabilogo.png" alt="logo" width="400">
+</div>
+
 ## Team Members – C242-PS465
 | Team Member                             | Cohort ID        | Learning Path                 |
 |------------------------------------|-------------------|----------------------|
